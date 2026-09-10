@@ -1,0 +1,14 @@
+# Secrets — never commit this
+.env
+
+# Virtual environment
+venv/
+
+# Logs and local state
+watcher.log
+watcher.log.*
+sent_files.json
+
+# Python cache
+__pycache__/
+*.pyc
